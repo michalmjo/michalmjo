@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/GHK5NZC/upload-Logo2.jpg)](https://michalmjo.github.io/portfolio/#/)
 <h1 align="center">Hi 👋, I'm Michał Ożóg</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Future frontend developer from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/48b74ed45987c6c6bf554b30f3afbd4f.gif">
 
 - 🔭 I’m currently working on **self-development**
