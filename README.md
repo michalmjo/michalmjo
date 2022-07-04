@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **self-development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** **TypeScript**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
