@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://michalmjo.github.io/portfolio/](https://michalmjo.github.io/portfolio/)
 
-- 📫 How to reach me **michal.pbe@gmail.com**
+- 📫 How to reach me: **michal.pbe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
