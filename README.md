@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/GHK5NZC/upload-Logo2.jpg)](https://michalmjo.github.io/portfolio/#/)
+<!-- [![MasterHead](https://i.ibb.co/GHK5NZC/upload-Logo2.jpg)](https://michalmjo.github.io/portfolio/#/) -->
 <h1 align="center">Hi 👋, I'm Michał Ożóg</h1>
 <h3 align="center">Future frontend developer from Poland</h3>
 
