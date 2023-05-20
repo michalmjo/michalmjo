@@ -3,9 +3,6 @@
 <h3 align="center">Frontend developer from Poland</h3>
 
 
-- 🔭 I’m currently working on **self-development**
-
-- 🌱 I’m currently learning **Angular** **TypeScript**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
