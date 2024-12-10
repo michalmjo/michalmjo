@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://michalmjo.github.io/portfolio/](https://michalmjo.github.io/portfolio/)
+- 👨‍💻 
 
 - 📫 How to reach me: **michal.pbe@gmail.com**
 
